@@ -29,7 +29,6 @@ export const query = graphql`
       address
     }
   }
-`
 
 const SingeProject = props => {
   const {
