@@ -27,7 +27,7 @@ const AboutPage = () => {
   ]
   return (
     <section id="about">
-      <PageHeader title="About Us" />
+      <PageHeader title="Sobre" />
       <Container>
         <main className="about-page section-lg">
           <h2 className="header-title text-center font-weight-bold">{title}</h2>
