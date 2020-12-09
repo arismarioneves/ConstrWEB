@@ -42,7 +42,7 @@ const ContactPage = () => {
   const { title, email, social, contact, address, map } = data.site.siteMetadata
   return (
     <section id="contact">
-      <PageHeader title="Contact" />
+      <PageHeader title="Contato" />
       <Container>
         <main className="contact-page section-lg">
           <Row>
@@ -69,7 +69,7 @@ const ContactPage = () => {
                       type="text"
                       name="name"
                       id="userName"
-                      placeholder="Your Name*"
+                      placeholder="Nome*"
                     />
                   </Col>
                   <Col className="mb-4" md="6">
@@ -78,7 +78,7 @@ const ContactPage = () => {
                       type="number"
                       name="phone"
                       id="userName"
-                      placeholder="Phone"
+                      placeholder="Telefone"
                     />
                   </Col>
                   <Col className="mb-1" md="12">
@@ -87,7 +87,7 @@ const ContactPage = () => {
                       type="textarea"
                       name="message"
                       id="message"
-                      placeholder="Your Message*"
+                      placeholder="Mensagem*"
                       rows="7"
                       required
                     ></textarea>

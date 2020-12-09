@@ -16,7 +16,7 @@ const About = ({ about }) => {
           <Col md="6">
             <section className="about-content mx-5">
               <h2 className="header-title font-weight-bold text-uppercase">
-                About Us
+                Sobre
               </h2>
               <p className="about-description font-size-90 text-secondary my-2">
                 {about}

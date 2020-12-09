@@ -28,7 +28,7 @@ class Header extends Component {
       <div className="header">
         <Navbar color="dark" dark expand="md" className="navbar fixed-top">
           <Container>
-            <Link to="/#hero" className="navbar-brand">
+            <Link to="/#principal" className="navbar-brand">
               <img
                 src={logo}
                 alt={`${siteTitle} Logo`}
@@ -44,14 +44,17 @@ class Header extends Component {
                   <Link
                     className="nav-link"
                     activeStyle={{ fontWeight: "bold" }}
-                    to="/#hero"
+                    to="/#principal"
                   >
-                    Home
+                    Principal
                   </Link>
                 </NavItem>
                 <NavItem>
-                  <Link className="nav-link" to="projects/#project">
-                    Projects
+                    <Link className="nav-link"
+                    to="projects/#project"
+                    activeStyle={{ fontWeight: "bold" }}
+				  >
+                    Projetos
                   </Link>
                 </NavItem>
                 <NavItem>
@@ -60,16 +63,7 @@ class Header extends Component {
                     activeStyle={{ fontWeight: "bold" }}
                     to="/services/#services"
                   >
-                    Services
-                  </Link>
-                </NavItem>
-                <NavItem>
-                  <Link
-                    className="nav-link"
-                    activeStyle={{ fontWeight: "bold" }}
-                    to="/careers/#careers"
-                  >
-                    Careers
+                    Serviços
                   </Link>
                 </NavItem>
                 <NavItem>
@@ -78,7 +72,7 @@ class Header extends Component {
                     activeStyle={{ fontWeight: "bold" }}
                     to="/about/#about"
                   >
-                    About Us
+                    Sobre
                   </Link>
                 </NavItem>
                 <NavItem>
@@ -87,7 +81,7 @@ class Header extends Component {
                     activeStyle={{ fontWeight: "bold" }}
                     to="/contact/#contact"
                   >
-                    Contact
+                    Contato
                   </Link>
                 </NavItem>
               </Nav>

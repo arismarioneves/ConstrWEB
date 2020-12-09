@@ -7,7 +7,7 @@ import "../themes/green.scss"
 import "../themes/orange.scss"
 
 // ---------- Components ----------
-import Hero from "../components/hero"
+import Hero from "../components/principal"
 import Services from "../components/services"
 import About from "../components/about"
 import QuoteUs from "../components/quote"

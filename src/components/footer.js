@@ -62,7 +62,7 @@ const Footer = ({ siteMetadata }) => {
             </Col>
             <Col className="footer-aboutus" lg="4" sm="6">
               <h4 className="text-center font-weight-bold mt-4 mb-2">
-                About Us
+                Sobre
               </h4>
               <p className="font-size-80 text-justify">{about}</p>
               <section className="footer-social">
@@ -118,7 +118,7 @@ const Footer = ({ siteMetadata }) => {
             </Col>
             <Col className="footer-contact" lg="4" sm="6">
               <h4 className="text-center font-weight-bold mt-4 mb-2">
-                Contacts
+                Contato
               </h4>
               <ul className="list-unstyled">
                 <li className="my-2">
@@ -138,7 +138,7 @@ const Footer = ({ siteMetadata }) => {
           </Row>
         </Container>
         <Row className="footer-credits justify-content-center">
-          {` ${title} © 2019 || Code and design by: `} &nbsp;
+          {` ${title} © 2020 || Desenvolvido por: `} &nbsp;
           <a
             href={author.website}
             target="_blank"

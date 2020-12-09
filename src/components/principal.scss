@@ -1,11 +1,11 @@
-.hero {
+.principal {
   background-image: url("../images/bg.jpg"); /*Wallpaper by desktopwalls.net*/
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
   height: 90vh;
 
-  .hero-content {
+  .principal-content {
     .title {
       font-weight: bold;
       font-size: 4.5em;
@@ -30,11 +30,11 @@
       width: 150px;
     }
 
-    .hero-description {
+    .principal-description {
       color: rgba(#fff, 0.8);
     }
 
-    .hero-buttons {
+    .principal-buttons {
       .btn {
         margin: 5px;
         width: 200px;
@@ -45,7 +45,7 @@
 }
 
 @media screen and (max-width: 1000px) {
-  .hero {
+  .principal {
     height: 100vh;
   }
 }

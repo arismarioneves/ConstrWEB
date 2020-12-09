@@ -88,7 +88,7 @@ const SingeProject = props => {
                 className="font-size-120"
                 svg={<Calendar />}
                 title="Duration Date"
-                value={duration}
+                value={duration
               />
               <hr />
               <List1

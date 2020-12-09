@@ -6,9 +6,9 @@ const NotFoundPage = () => (
     <Container>
       <header>
         <h1>404</h1>
-        <h2>NOT FOUND</h2>
+        <h2>NÃO ENCONTRADO</h2>
       </header>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+      <p>Você acabou de pegar um caminho que não existe... a tristeza.</p>
     </Container>
   </section>
 )
