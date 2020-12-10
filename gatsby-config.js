@@ -21,17 +21,17 @@ module.exports = {
       day: `Segunda - Sexta`,
       hour: `8:00 - 17:00`,
     },
-    //careers: {
-    //  title: `Benefits and rewards`,
-    //  about: `Our diverse capabilities provide employees with the ability to
-    //  work on projects of all sizes and types and receive amazing
-    //  benefits in return. They include but are in no way limited to:`,
-    //  benefits: [
-    //    `Healthcare and wellness benefits`,
-    //    `Retirement and financial protection`,
-    //    `Employee development programs`,
-    //  ],
-    //},
+    careers: {
+      title: `Benefits and rewards`,
+      about: `Our diverse capabilities provide employees with the ability to
+      work on projects of all sizes and types and receive amazing
+      benefits in return. They include but are in no way limited to:`,
+      benefits: [
+        `Healthcare and wellness benefits`,
+        `Retirement and financial protection`,
+        `Employee development programs`,
+      ],
+    },
     author: {
       name: `Arismário Neves`,
       position: `Web Developer`,
