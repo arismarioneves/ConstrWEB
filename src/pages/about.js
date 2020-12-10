@@ -46,7 +46,7 @@ const AboutPage = () => {
           <hr />
           <Row>
             <Col md="6">
-              <AboutCard title="Mission">
+              <AboutCard title="Missão">
                 <p>
                   <strong>{fullTitle} </strong>Ipsum dolor sit amet consectetur
                   adipisicing elit. Ullam quisquam ratione et sint, quos
@@ -74,7 +74,7 @@ const AboutPage = () => {
               </AboutCard>
             </Col>
             <Col md="6">
-              <AboutCard title="Vision">
+              <AboutCard title="Visão">
                 <p>
                   Ipsum dolor sit amet consectetur adipisicing elit. Ullam
                   quisquam ratione et sint, quos dolores, corporis debitis
@@ -85,7 +85,7 @@ const AboutPage = () => {
                   dolores quaerat aspernatur dolorem iusto autem, facere ipsa.
                 </p>
               </AboutCard>
-              <AboutCard title="Core Values">
+              <AboutCard title="Valores">
                 <p>
                   Ipsum dolor sit amet consectetur adipisicing elit. Ullam
                   quisquam ratione et sint, quos dolores, corporis debitis
@@ -94,9 +94,9 @@ const AboutPage = () => {
                   doloribus hic saepe dicta fugit exercitationem.
                 </p>
                 <ul>
-                  <li>Professionalism</li>
-                  <li>Commitment</li>
-                  <li>Integrity</li>
+                  <li>Profissionalismo</li>
+                  <li>Comprometimento</li>
+                  <li>Integridade</li>
                 </ul>
               </AboutCard>
             </Col>

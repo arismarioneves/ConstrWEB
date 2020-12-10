@@ -57,21 +57,21 @@ const SingeProject = props => {
               <List1
                 className="font-size-120"
                 svg={<User />}
-                title="Owner"
+                title="Proprietário"
                 value={owner}
               />
               <hr />
               <List1
                 className="font-size-120"
                 svg={<Pin />}
-                title="Location"
+                title="Localização"
                 value={address}
               />
               <hr />
               <List1
                 className="font-size-120"
                 svg={<Hardhat />}
-                title="Scope of Works"
+                title="Escopo"
                 value={category.map((cat, index, category) =>
                   index === category.length - 1 ? cat : cat + ", "
                 )}
@@ -80,21 +80,21 @@ const SingeProject = props => {
               <List1
                 className="font-size-120"
                 svg={<Bill />}
-                title="Total Cost"
+                title="Custo"
                 value={amount}
               />
               <hr />
               <List1
                 className="font-size-120"
                 svg={<Calendar />}
-                title="Duration Date"
+                title="Duração"
                 value={duration}
               />
               <hr />
               <List1
                 className="font-size-120"
                 svg={<CalendarCheck />}
-                title="Completion date"
+                title="Conclusão"
                 value={completionDate}
               />
             </section>

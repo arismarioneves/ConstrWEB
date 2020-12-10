@@ -4,10 +4,10 @@ import "./project.scss"
 
 import ProjCard from "./projCard"
 
-const projCategories = ["all", "construction", "remodeling", "interior design"]
+const projCategories = ["todos", "construção", "remodelação", "desing de interiores"]
 class Project extends Component {
   state = {
-    category: "all",
+    category: "todos",
     title: this.props.title,
   }
   render() {
@@ -34,7 +34,7 @@ class Project extends Component {
           </section>
           <section className="gallery">
             <Row>
-              {category === "all"
+              {category === "todos"
                 ? projects.map(project => {
                     return (
                       <Col lg="4" md="6" sm="12">
