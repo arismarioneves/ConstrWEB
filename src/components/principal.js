@@ -4,7 +4,7 @@ import { Button } from "reactstrap"
 import { Link } from "gatsby"
 import "./principal.scss"
 
-const Hero = ({ title, description }) => {
+const Principal = ({ title, description }) => {
   return (
     <div className="principal" id="principal">
       <section className="h-100 d-flex align-items-center text-center bg-dark-40">
@@ -26,4 +26,4 @@ const Hero = ({ title, description }) => {
   )
 }
 
-export default Hero
+export default Principal

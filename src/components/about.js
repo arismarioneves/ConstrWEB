@@ -8,7 +8,7 @@ import companyThumbnail from "../images/company.jpg"
 
 import "./about.scss"
 
-const About = ({ about }) => {
+const Sobre = ({ about }) => {
   return (
     <div className="about section-lg">
       <Container>
@@ -67,4 +67,4 @@ const About = ({ about }) => {
   )
 }
 
-export default About
+export default Sobre

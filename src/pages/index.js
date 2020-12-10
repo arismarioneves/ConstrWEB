@@ -7,27 +7,27 @@ import "../themes/green.scss"
 import "../themes/orange.scss"
 
 // ---------- Components ----------
-import Hero from "../components/principal"
-import Services from "../components/services"
-import About from "../components/about"
-import QuoteUs from "../components/quote"
-import Feature from "../components/feature"
-//import News from "../components/news"
+import Principal from "../components/principal"
+import Servicos from "../components/services"
+import Sobre from "../components/about"
+import Contato from "../components/quote"
+import Projetos from "../components/feature"
+import Atividades from "../components/news"
 
 const IndexPage = ({ data }) => {
   const { fullTitle, description, about } = data.site.siteMetadata
 
   return (
     <div>
-      <Hero title={fullTitle} description={description} />
-      <Services />
-      <About about={about} />
-      <Feature
+      <Principal title={fullTitle} description={description} />
+      <Servicos />
+      <Sobre about={about} />
+      <Projetos
         title="Projetos em Destaque"
         projects={data.allProjectsJson.edges}
       />
-      <QuoteUs />
-      //<News />
+      <Contato />
+      <Atividades />
     </div>
   )
 }

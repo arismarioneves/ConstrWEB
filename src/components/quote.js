@@ -3,7 +3,7 @@ import { Container, Button } from "reactstrap"
 import { Link } from "gatsby"
 import "./quote.scss"
 
-const QuoteUs = () => {
+const Contato = () => {
   return (
     <div className="quote" id="quote">
       <section className="parallax-container">
@@ -22,4 +22,4 @@ const QuoteUs = () => {
   )
 }
 
-export default QuoteUs
+export default Contato

@@ -31,12 +31,12 @@ const companyNews = [
   },
 ]
 
-const News = () => {
+const Atividades = () => {
   return (
     <div className="news section-lg bg-light-gray">
       <Container>
         <h2 className="header-title font-weight-bold text-center text-uppercase">
-          Company News
+          Atividades
         </h2>
         <Row>
           {companyNews.map(news => {
@@ -52,4 +52,4 @@ const News = () => {
   )
 }
 
-export default News
+export default Atividades

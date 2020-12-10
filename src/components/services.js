@@ -8,7 +8,7 @@ import Bulldozer from "../images/icons/icon-bulldozer-74x74.png"
 import Tassels from "../images/icons/icon-tassels-70x70.png"
 import Ruler from "../images/icons/icon-ruler-45x71.png"
 
-const Services = () => {
+const Servicos = () => {
   const card = [
 	{
       title: `Construção`,
@@ -43,4 +43,4 @@ const Services = () => {
   )
 }
 
-export default Services
+export default Servicos

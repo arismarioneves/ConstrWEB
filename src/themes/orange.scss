@@ -28,7 +28,7 @@ $color-hover: #d39e00;
   }
 }
 
-// -------- Hero component --------
+// -------- Principal component --------
 .principal {
   .h-separator {
     border-color: $color-light;
@@ -62,7 +62,7 @@ $color-hover: #d39e00;
   border-color: $color-default;
 }
 
-// -------- About --------
+// -------- Sobre --------
 
 .about {
   ul li:hover {
@@ -112,7 +112,7 @@ $color-hover: #d39e00;
   }
 }
 
-// -------- News --------
+// -------- Atividades --------
 .news-thumbnail-hover {
   background: rgba($color-default, 0.5);
 }

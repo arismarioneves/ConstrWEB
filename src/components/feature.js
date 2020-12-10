@@ -5,7 +5,7 @@ import "./project.scss"
 
 import ProjCard from "./projCard"
 
-const Feature = ({ title, projects }) => {
+const Projetos = ({ title, projects }) => {
   return (
     <div className="project section-lg" id="feature">
       <Container>
@@ -39,4 +39,4 @@ const Feature = ({ title, projects }) => {
   )
 }
 
-export default Feature
+export default Projetos
