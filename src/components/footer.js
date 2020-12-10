@@ -47,7 +47,7 @@ const Footer = ({ siteMetadata }) => {
           <Row className="section-md">
             <Col className="company-badge" lg="4" sm="12">
               <h4 className="text-center font-weight-bold mt-4 mb-2">
-                Licensed/Accredited
+                Licenciado/Credenciado
               </h4>
               <section className="img-badge d-flex flex-wrap justify-content-around align-items-center">
                 {badges.map(badge => (
@@ -138,7 +138,7 @@ const Footer = ({ siteMetadata }) => {
           </Row>
         </Container>
         <Row className="footer-credits justify-content-center">
-          {` ${title} © 2020 || Desenvolvido por: `} &nbsp;
+          {` ${title} © 2020 | Desenvolvido por:`} &nbsp;
           <a
             href={author.website}
             target="_blank"
