@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `ConstrWEB`,
-    fullTitle: `TANPEL CONSTRUCTION`,
-    description: `Listen better | Plan better | Build better.`,
-    about: `Since our incorporation in 1981, we've grown from a regional organization to a multi-faceted, national presence in the industry with headquarters in New York.`,
-    email: `info@tanpelconstruction.com`,
+    title: `Sakara`,
+    fullTitle: `CONSTRUTORA SAKARA`,
+    description: `Ouça melhor | Planeje melhor | Construa melhor.`,
+    about: `Desde nossa constituição em 2008, estamos construindo a nossa história como construtora em Brasília.`,
+    email: `info@sakara.com`,
     social: {
-      facebook: `https://facebook.com/tanpelconstruction`,
-      twitter: `https://twitter.com/tanpelconstruction`,
-      instagram: `https://instagram.com/tanpelconstruction`,
-      linkedin: `https://linkedin.com/in/tanpelconstruction`,
+      facebook: `https://facebook.com/sakara`,
+      twitter: `https://twitter.com/sakara`,
+      instagram: `https://instagram.com/sakara`,
+      linkedin: `https://linkedin.com/in/sakara`,
     },
     contact: {
       mobile: `+55 61 91234 5678`,

@@ -97,7 +97,7 @@ const Footer = ({ siteMetadata }) => {
                   </a>
                 </Row>
               </section>
-              <h6 className="font-weight-bold text-uppercase">Opening Hours</h6>
+              <h6 className="font-weight-bold text-uppercase">Horário de Funcionamento</h6>
               <section className="opening ml-5">
                 <hr />
                 <List2

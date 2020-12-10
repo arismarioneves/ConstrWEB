@@ -27,10 +27,10 @@ const Feature = ({ title, projects }) => {
           </Row>
         </section>
         <section className="text-center mt-5 font-size-s2">
-          <p className="">Explore more about our Projects</p>
+          <p className="">Explore mais sobre nossos projetos</p>
           <Link to="/projects/#project">
             <Button outline color="dark">
-              All Projects
+              Todos os Projetos
             </Button>
           </Link>
         </section>

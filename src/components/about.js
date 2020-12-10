@@ -48,7 +48,7 @@ const About = ({ about }) => {
                 </li>
               </ul>
               <Link to="/about/#about" className="about-btn-lnk">
-                <Button>Read More</Button>
+                <Button>Ler mais</Button>
               </Link>
             </section>
           </Col>

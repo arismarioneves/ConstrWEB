@@ -48,12 +48,12 @@ const ContactPage = () => {
           <Row>
             <Col lg="8" className="contact-form border-right pl-5 pr-5">
               <h2 className="header-title text-center font-weight-bold">
-                Get in Touch
+                Entrar em contato
               </h2>
               <p className="contact-description font-size-90 text-center text-muted mb-4">
-                We are available by fax, e-mail or by phone. You can also use
-                our quick contact form to ask a question about our services and
-                projects we’re working on.
+                Estamos disponíveis por e-mail ou por telefone. Você também pode usar
+                nosso formulário de contato rápido para fazer uma pergunta sobre nossos serviços e
+                projetos em que estamos trabalhando.
               </p>
               <form
                 name="contact"
@@ -124,7 +124,7 @@ const ContactPage = () => {
             <Col lg="4" className="contact-info pl-5 pr-5">
               <aside className="contact-info">
                 <section className="get-social border-bottom mb-4 pb-4">
-                  <p className="text-uppercase font-weight-bold">Get Social</p>
+                  <p className="text-uppercase font-weight-bold">Redes Sociais</p>
                   <Row className="ml-0">
                     <a
                       href={social.facebook}
@@ -157,18 +157,14 @@ const ContactPage = () => {
                   </Row>
                 </section>
                 <section className="telephone border-bottom mb-4 pb-4">
-                  <p className="text-uppercase font-weight-bold">
-                    Telephone/Fax
-                  </p>
+                  <p className="text-uppercase font-weight-bold">Telefone</p>
                   <Row className="ml-0">
                     <Telephone className="fill-svg fill-color" />{" "}
                     {contact.telephone}
                   </Row>
                 </section>
                 <section className="mobilephone border-bottom mb-4 pb-4">
-                  <p className="text-uppercase font-weight-bold">
-                    Mobile Phone
-                  </p>
+                  <p className="text-uppercase font-weight-bold">celular</p>
                   <Row className="ml-0">
                     <Smartphone className="stroke-svg stroke-color" />{" "}
                     {contact.mobile}
@@ -181,7 +177,7 @@ const ContactPage = () => {
                   </Row>
                 </section>
                 <section className="address mb-4 pb-4">
-                  <p className="text-uppercase font-weight-bold">Address</p>
+                  <p className="text-uppercase font-weight-bold">Endereço</p>
                   <Row className="ml-0 flex-nowrap">
                     <Pin className="fill-svg fill-color" /> <p>{address}</p>
                   </Row>
