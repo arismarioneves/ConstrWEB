@@ -16,7 +16,7 @@ const Hero = ({ title, description }) => {
             <section className="principal-buttons">
               <Button href="#services">Conheça-nos</Button>
               <Link to="projects/#project">
-                <Button outline>Projects</Button>
+                <Button outline>Projetos</Button>
               </Link>
             </section>
           </main>

@@ -115,7 +115,7 @@ const ContactPage = () => {
                       className="text-dark font-weight-bold text-uppercase btn btn-secondary btn-block"
                       type="submit"
                     >
-                      Send Message
+                      Enviar mensagem
                     </button>
                   </Col>
                 </Row>

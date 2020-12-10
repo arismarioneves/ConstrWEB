@@ -12,7 +12,7 @@ const QuoteUs = () => {
             <Container className="flex-sb">
               <h3>Procurando um construtor de alta qualidade para seu projeto?</h3>
               <Link to="/contact/#contact" className="center">
-                <Button>Quote to Us</Button>
+                <Button>Fale conosco</Button>
               </Link>
             </Container>
           </div>
