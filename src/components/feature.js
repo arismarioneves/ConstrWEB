@@ -3,7 +3,7 @@ import { Container, Row, Col, Button } from "reactstrap"
 import { Link } from "gatsby"
 import "./project.scss"
 
-import ProjCard from "./projCard"
+import HomeCard from "./homeCard"
 
 const Projetos = ({ title, projects }) => {
   return (
@@ -20,7 +20,7 @@ const Projetos = ({ title, projects }) => {
               .map(project => {
                 return (
                   <Col lg="4" md="6" sm="12">
-                    <ProjCard proj={project.node} />
+                    <HomeCard proj={project.node} />
                   </Col>
                 )
               })}
