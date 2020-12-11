@@ -5,6 +5,7 @@ module.exports = {
     description: `Ouça melhor | Planeje melhor | Construa melhor.`,
     about: `Desde nossa constituição em 2008, estamos construindo a nossa história como construtora em Brasília.`,
     email: `mariodev@outlook.com.br`,
+	//email: `info@sakara.com`,
     social: {
       facebook: `https://facebook.com/sakara`,
       twitter: `https://twitter.com/sakara`,
