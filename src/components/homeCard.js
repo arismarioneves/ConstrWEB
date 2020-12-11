@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import "./projCard.scss"
+import "./homeCard.scss"
 
 const HomeCard = ({ proj }) => {
   const { img, title, description, slug } = proj
