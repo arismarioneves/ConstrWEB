@@ -1,4 +1,5 @@
 import React from "react"
+import { Helmet } from "react-helmet"
 import { Container } from "reactstrap"
 import { Button } from "reactstrap"
 import { Link } from "gatsby"
@@ -7,6 +8,9 @@ import "./principal.scss"
 const Principal = ({ title, description }) => {
   return (
     <div className="principal" id="principal">
+      <Helmet>
+        <title>{title}</title>
+      </Helmet>
       <section className="h-100 d-flex align-items-center text-center bg-dark-40">
         <Container>
           <main className="principal-content">
