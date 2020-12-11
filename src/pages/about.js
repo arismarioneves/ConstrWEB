@@ -20,10 +20,9 @@ const AboutPage = () => {
   const { title, fullTitle } = data.site.siteMetadata
 
   const aboutContent = [
-    `Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea molestias incidunt reprehenderit. Aliquam harum laboriosam reprehenderit delectus nostrum iste in ullam perspiciatis! Doloremque quibusdam quo quas deleniti. Libero tempore nobis autem pariatur, cumque sunt dolor consequuntur sit velit! Voluptates ea sequi vitae distinctio voluptatem. Quis, tenetur necessitatibus? Dicta, perferendis provident?`,
-    `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem nisi esse dolorum architecto, id et illo, mollitia consectetur eaque debitis enim ea facere provident aperiam repellat nam natus molestiae expedita?`,
-    `Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis voluptatibus cumque incidunt vero corporis architecto vel voluptas optio nemo, cum repellendus, doloremque, voluptates sit? Sit facilis, minus odio tempora dicta distinctio expedita ipsa alias ipsam fuga, nulla dolor, quos ut molestias quia?`,
-    `Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum ipsa officiis aperiam suscipit quaerat non reprehenderit sapiente hic, odit, praesentium dolorem veritatis. Velit dolorum accusamus debitis blanditiis? Ad officia corporis optio neque quaerat dolore, incidunt, ducimus facilis quo ratione, dicta quos voluptatibus ab consequatur unde debitis quibusdam! Temporibus, dolor pariatur ipsa eaque assumenda nesciunt nam! Ab rem ex iusto aut.`,
+    `A Construtora Sakara é especializada nas áreas de Arquitetura e Construção, atuando há mais de 35 anos, tendo projetado e executado obras de habitação individual, coletiva, comerciais, industriais, hotelaria e outras.`,
+    `Além de elaboração de projetos e obras, nossa experiência está na execução de empreendimentos próprios, conseguindo êxito nestes ambientes, o que nos da confiabilidade e certeza nos negócios.`,
+    `Atualmente são poucas as tendências arquitetônicas, e as que permanecem simbolizam o aprimoramento cultural, tecnológico, tornando-se excelência, ou seja, na valorização do concreto aparente, pois o concreto armado serve não só como sistema estrutural e sim decisório no projeto, como manifestação estética e plástica do concreto armado (grandes vãos, estruturas suspensas, pretendidos, jardins internos, pré-moldados).`,
   ]
   return (
     <section id="about">
@@ -48,50 +47,30 @@ const AboutPage = () => {
             <Col md="6">
               <AboutCard title="Missão">
                 <p>
-                  <strong>{fullTitle} </strong>Ipsum dolor sit amet consectetur
-                  adipisicing elit. Ullam quisquam ratione et sint, quos
-                  dolores, corporis debitis minus, vitae officia adipisci ipsa
-                  fugiat est dolorum eum optio blanditiis quas doloribus hic
-                  saepe dicta fugit exercitationem. Sed, recusandae atque nobis
-                  facilis voluptates, dolores quaerat aspernatur dolorem iusto
-                  autem, facere ipsa. Fugiat
-                </p>
+                  A <strong>{fullTitle}</strong> busca construir e comercializar imóveis
+                  visando sempre a excelência e o pleno atendimento às necessidades e
+                  expectativas de nossos clientes.</p>
+                <p>Nossas missões diárias</p>
                 <ol>
-                  <li>Providing awesome customer service to our clients.</li>
-                  <li>
-                    Providing a mixture of services to a variety of industries
-                    and geographical locations.
-                  </li>
-                  <li>
-                    Continually improving communications with our customers and
-                    between departments.
-                  </li>
-                  <li>Providing training for personnel’s enhancement.</li>
-                  <li>
-                    Recruiting and hiring only those who share our vision.
-                  </li>
+                  <li>Fornecer atendimento incrível para nossos clientes.</li>
+                  <li>Fornecer uma combinação de serviços para uma variedade de setores e localizações geográficas.</li>
+                  <li>Melhorar continuamente a comunicação com nossos clientes e entre departamentos.</li>
+                  <li>Fornecer treinamento para aprimoramento de pessoal.</li>
+                  <li>Recrutar e contratar apenas aqueles que compartilham de nossa visão.</li>
                 </ol>
               </AboutCard>
             </Col>
             <Col md="6">
               <AboutCard title="Visão">
                 <p>
-                  Ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                  quisquam ratione et sint, quos dolores, corporis debitis
-                  minus, vitae officia adipisci ipsa fugiat est dolorum eum
-                  optio blanditiis quas doloribus hic saepe dicta fugit
-                  exercitationem. Sed, recusandae atque nobis facilis
-                  voluptates, <strong>{fullTitle} </strong>
-                  dolores quaerat aspernatur dolorem iusto autem, facere ipsa.
+                  Ser cada vez mais conhecida pela confiabilidade, qualidade e
+                  inovação na construição e comercialização de imóveis.
                 </p>
               </AboutCard>
               <AboutCard title="Valores">
                 <p>
-                  Ipsum dolor sit amet consectetur adipisicing elit. Ullam
-                  quisquam ratione et sint, quos dolores, corporis debitis
-                  minus, vitae officia adipisci ipsa fugiat est{" "}
-                  <strong>{title} </strong>dolorum eum optio blanditiis quas
-                  doloribus hic saepe dicta fugit exercitationem.
+                  Em 14 anos, conseguimos ter uma diretriz que evoluiu a nossa postura profissional
+                  além da técnica e qualidade, até conseguimos definir uma <strong>TENDÊNCIA</strong>.`,
                 </p>
                 <ul>
                   <li>Profissionalismo</li>
