@@ -70,7 +70,7 @@ const AboutPage = () => {
               <AboutCard title="Valores">
                 <p>
                   Em 14 anos, conseguimos ter uma diretriz que evoluiu a nossa postura profissional
-                  além da técnica e qualidade, até conseguimos definir uma <strong>TENDÊNCIA</strong>.`,
+                  além da técnica e qualidade, até conseguimos definir uma <strong>TENDÊNCIA</strong>.
                 </p>
                 <ul>
                   <li>Profissionalismo</li>

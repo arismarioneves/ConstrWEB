@@ -58,6 +58,7 @@ const ContactPage = () => {
               <form
                 name="contact"
                 method="POST"
+				action={"https://formspree.io/" + email}
                 data-netlify-honeypot="bot-field"
                 data-netlify="true"
               >
