@@ -9,21 +9,21 @@ import imgTeamBuilding from "../images/news/team-building.jpg"
 
 const companyNews = [
   {
-    title: `ISO Seminars 2019`,
-    date: `Mar. 23, 2019`,
+    title: `Seminário ISO 2019`,
+    date: `Mar. 23, 2016`,
     about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore eaque debitis quis corporis magni cupiditate aperiam autem. Nostrum, fugit dolor.`,
     img: imgSeminar,
     slug: `iso-seminars-2019`,
   },
   {
-    title: `TP Center Construction`,
+    title: `Acompanhamento de Obras`,
     date: `May. 19, 2019`,
     about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi dolorem, magnam praesentium dignissimos repellendus eveniet!`,
     img: imgBuilding,
     slug: `tpcenter-construction`,
   },
   {
-    title: `Company Team Building 2019`,
+    title: `Formação de equipes 2018`,
     date: `August. 5, 2019`,
     about: `Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis quibusdam similique provident quo vitae odio suscipit dicta cupiditate?`,
     img: imgTeamBuilding,
