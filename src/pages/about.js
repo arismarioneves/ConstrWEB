@@ -64,12 +64,12 @@ const AboutPage = () => {
               <AboutCard title="Visão">
                 <p>
                   Ser cada vez mais conhecida pela confiabilidade, qualidade e
-                  inovação na construição e comercialização de imóveis.
+                  inovação na construção e comercialização de imóveis.
                 </p>
               </AboutCard>
               <AboutCard title="Valores">
                 <p>
-                  Em 14 anos, conseguimos ter uma diretriz que evoluiu a nossa postura profissional
+                  Após vários anos, conseguimos ter uma diretriz que evoluiu a nossa postura profissional
                   além da técnica e qualidade, até conseguimos definir uma <strong>TENDÊNCIA</strong>.
                 </p>
                 <ul>

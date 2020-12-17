@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Sakara`,
     fullTitle: `CONSTRUTORA SAKARA`,
-    description: `Ouça melhor | Planeje melhor | Construa melhor.`,
-    about: `Desde nossa constituição em 2008, estamos construindo a nossa história como construtora em Brasília.`,
+    description: `Planeje melhor | Construa melhor | Viva melhor.`,
+    about: `Desde nossa constituição estamos construindo a nossa história como construtora em Brasília.`,
     email: `mariodev@outlook.com.br`,
 	//email: `info@sakara.com`,
     social: {

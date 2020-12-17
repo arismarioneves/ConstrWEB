@@ -6,14 +6,14 @@
     "description": "Descrição...",
     "img": {
       "src": [
-		"../images/projects/house/H01.png",
-		"../images/projects/house/H02.png",
-		"../images/projects/house/H03.png",
-		"../images/projects/house/H04.png",
-		"../images/projects/house/H05.png",
-		"../images/projects/house/H06.png",
-		"../images/projects/house/H07.png",
-		"../images/projects/house/H08.png"
+		"../house/H01.png",
+		"../house/H02.png",
+		"../house/H03.png",
+		"../house/H04.png",
+		"../house/H05.png",
+		"../house/H06.png",
+		"../house/H07.png",
+		"../house/H08.png"
       ],
       "orig": "https://unsplash.com/photos/2d4lAQAlbDA",
       "author": "Foto de iAlicante Mediterranean Homes no Unsplash"
@@ -86,8 +86,8 @@
     "description": "Giving brands the energy to change. I use design to help clients find the vision and courage to take on the world.",
     "img": {
       "src": [
-		"../images/projects/morarb/MB01.png",
-		"../images/projects/morarb/MB02.png"
+		"../morarb/MB01.png",
+		"../morarb/MB02.png"
       ],
       "orig": "https://unsplash.com/photos/AQl-J19ocWE",
       "author": "Foto de Jason Briscoe no Unsplash"
@@ -106,8 +106,8 @@
     "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
     "img": {
       "src": [
-		"../images/projects/predio/P01.png",
-		"../images/projects/predio/P02.png"
+		"../predio/P01.png",
+		"../predio/P02.png"
       ],
       "orig": "https://unsplash.com/photos/QdAAasrZhdk",
       "author": "Foto de Lance Anderson no Unsplash"

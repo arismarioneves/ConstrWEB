@@ -41,7 +41,7 @@ const ServicesPage = () => {
     {
       title: `Edifício Verde`,
       icon: Helmet,
-      description: `A construção verde tem um efeito altamente reduzido no meio ambiente e é usada em quase todos os projetos de nossa empresa.`,
+      description: `A construção verde tem um efeito altamente reduzido no meio ambiente e é usada em vários dos projetos da nossa empresa.`,
     },
   ]
   return (
