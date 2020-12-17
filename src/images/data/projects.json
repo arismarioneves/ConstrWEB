@@ -3,7 +3,7 @@
     "title": "Título",
     "slug": "casa",
     "category": ["construção", "desing de interiores"],
-    "description": "Descrição...",
+    "description": "Encantadora propriedade onde cantam os pássaros, ao amanhecer, no extenso arvoredo. É cortada por cristalinas e refrescantes águas de um ribeiro. A casa, banhada pelo sol nascente, oferece a sombra tranquila das tardes, na varanda.",
     "img": {
       "src": [
 		"https://iili.io/K52zuV.jpg",
@@ -15,7 +15,7 @@
 		"https://iili.io/K52RMF.jpg",
 		"https://iili.io/K5256g.jpg"
       ],
-      "orig": "https://unsplash.com/photos/2d4lAQAlbDA.jpg",
+      "orig": "https://iili.io/K52zuV.jpg",
       "author": "Foto de iAlicante Mediterranean Homes no Unsplash"
     },
     "amount": "R$ 3.500.000,00",
