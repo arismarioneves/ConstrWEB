@@ -43,21 +43,6 @@ const Footer = ({ siteMetadata }) => {
       <section className="footer-wrapper">
         <Container className="footer-content text-white">
           <Row className="section-md">
-            /*<Col className="company-badge" lg="4" sm="12">
-              <h4 className="text-center font-weight-bold mt-4 mb-2">
-                Licenciado/Credenciado
-              </h4>
-              <section className="img-badge d-flex flex-wrap justify-content-around align-items-center">
-                {badges.map(badge => (
-                  <img
-                    width="90px"
-                    className="my-2"
-                    src={badge.img}
-                    alt={badge.alt}
-                  />
-                ))}
-              </section>
-            </Col>*/
             <Col className="footer-aboutus" lg="4" sm="6">
               <h4 className="text-center font-weight-bold mt-4 mb-2">
                 Sobre
