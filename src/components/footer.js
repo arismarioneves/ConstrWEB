@@ -43,7 +43,7 @@ const Footer = ({ siteMetadata }) => {
       <section className="footer-wrapper">
         <Container className="footer-content text-white">
           <Row className="section-md">
-            <Col className="company-badge" lg="4" sm="6" mx-auto>
+            <Col className="company-badge" lg="4" sm="6" mx="auto">
               <h4 className="text-center font-weight-bold mt-4 mb-2">
                 Sobre
               </h4>
@@ -85,7 +85,7 @@ const Footer = ({ siteMetadata }) => {
                 <hr />
               </section>
             </Col>
-            <Col className="footer-contact" lg="4" sm="6" mx-auto>
+            <Col className="footer-contact" lg="4" sm="6" mx="auto">
               <h4 className="text-center font-weight-bold mt-4 mb-2">
                 Contato
               </h4>
