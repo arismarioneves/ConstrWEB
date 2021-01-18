@@ -2,7 +2,7 @@
   {
     "title": "Construção",
     "slug": "casa",
-    "category": ["construção", "desing de interiores"],
+    "category": ["remodelação"],["desing de interiores"],
     "description": "Seguindo a tendência deixada por arquitetos renomados, prezamos pela inovação, estruturas suspensas, grandes vãos, acabamentos requintados com destaque para elementos em concreto aparente, sempre procurando a convergência das necessidades com as melhores soluções de engenharia e de custo.",
     "img": {
       "src": [
@@ -26,7 +26,7 @@
   {
     "title": "Casas Populares",
     "slug": "casas-populares",
-    "category": ["construção"],
+    "category": ["construção"],["remodelação"],
     "description": "26 Casas populares em Luziânia. Informe-se conosco quanto essa incrível oportunidade de ter seu primeiro imóvel.",
     "img": {
       "src": [

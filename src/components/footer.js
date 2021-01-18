@@ -49,7 +49,7 @@ const Footer = ({ siteMetadata }) => {
               </h4>
               <p className="font-size-80 text-justify">{about}</p>
               <section className="footer-social">
-                <Row className="mb-2">
+                <Row className="mb-2 mx-auto">
                   <a
                     href={social.facebook}
                     target="_blank"
