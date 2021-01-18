@@ -20,7 +20,7 @@ const AboutPage = () => {
   const { title, fullTitle } = data.site.siteMetadata
 
   const aboutContent = [
-    `A Construtora Sakara é especializada nas áreas de Arquitetura e Construção, atuando há mais de 35 anos, tendo projetado e executado obras de habitação individual, coletiva, comerciais, industriais, hotelaria e outras.`,
+    `A Construtora Sakara é especializada nas áreas de Arquitetura e Construção, atuando há vários anos, tendo projetado e executado obras de habitação individual, coletiva, comerciais, industriais, hotelaria e outras.`,
     `Além de elaboração de projetos e obras, nossa experiência está na execução de empreendimentos próprios, conseguindo êxito nestes ambientes, o que nos da confiabilidade e certeza nos negócios.`,
     `Atualmente são poucas as tendências arquitetônicas, e as que permanecem simbolizam o aprimoramento cultural, tecnológico, tornando-se excelência, ou seja, na valorização do concreto aparente, pois o concreto armado serve não só como sistema estrutural e sim decisório no projeto, como manifestação estética e plástica do concreto armado (grandes vãos, estruturas suspensas, pretendidos, jardins internos, pré-moldados).`,
   ]

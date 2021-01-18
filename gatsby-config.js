@@ -3,7 +3,7 @@ module.exports = {
     title: `Sakara`,
     fullTitle: `CONSTRUTORA SAKARA`,
     description: `Planeje melhor | Construa melhor | Viva melhor.`,
-    about: `Desde nossa constituição estamos construindo a nossa história como construtora em Brasília.`,
+    about: `Desde nossa constituição em 2008, estamos construindo a nossa história como construtora em Brasília.`,
     email: `construtorasakaraltda@gmail.com`,
     social: {
       facebook: `https://facebook.com/construtorasakara`,

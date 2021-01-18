@@ -79,7 +79,7 @@ class Header extends Component {
                   <Link
                     className="nav-link"
                     activeStyle={{ fontWeight: "bold" }}
-                    to="/contact/#contact"
+                    to="/contato/#contato"
                   >
                     Contato
                   </Link>

@@ -1,9 +1,9 @@
 [
   {
-    "title": "Título",
+    "title": "Construção",
     "slug": "casa",
     "category": ["construção", "desing de interiores"],
-    "description": "Encantadora propriedade onde cantam os pássaros, ao amanhecer, no extenso arvoredo. É cortada por cristalinas e refrescantes águas de um ribeiro. A casa, banhada pelo sol nascente, oferece a sombra tranquila das tardes, na varanda.",
+    "description": "Seguindo a tendência deixada por arquitetos renomados como Oscar Niemayer e Lelé, prezamos pela inovação, estruturas suspensas, grandes vãos, acabamentos requintados com destaque para elementos em concreto aparente, organização dos espaços com funcionalidade em  busca da simplicidade e praticidade no dia a dia de quem usa o imóvel, sempre procurando a convergência das necessidades e visões do cliente com as melhores soluções de engenharia e de custo.",
     "img": {
       "src": [
 		"https://iili.io/K52zuV.jpg",
@@ -16,107 +16,46 @@
 		"https://iili.io/K5256g.jpg"
       ],
       "orig": "https://iili.io/K52zuV.jpg",
-      "author": "Foto de iAlicante Mediterranean Homes no Unsplash"
+      "author": "Foto de Construtora Sakara"
     },
-    "amount": "R$ 3.500.000,00",
-    "duration": "85 dias",
-    "completionDate": "Fevereiro, 2018",
-    "owner": "João da Silva",
-    "address": "Alicante, Costa Blanca, Spain",
+    "owner": "Construtora Sakara",
+	"address": "Brasília (Distrito Federal)",
     "featured": true
   },
   {
-    "title": "Jarek Ceborski",
-    "slug": "jarek-ceborski",
-    "category": ["desing de interiores"],
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
-    "img": {
-      "src": [
-        "https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
-      ],
-      "orig": "https://unsplash.com/photos/jn7uVeCdf6U",
-      "author": "Foto de Jarek Ceborski no Unsplash"
-    },
-    "amount": "R$ 3.500.000,00",
-    "duration": "85 dias",
-    "completionDate": "Fevereiro, 2018",
-    "owner": "Jarek Ceborski",
-    "address": "Wrocław, Poland"
-  },
-  {
-    "title": "Pixasquare",
-    "slug": "pixasquare",
+    "title": "Casas Populares",
+    "slug": "casas-populares",
     "category": ["construção"],
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
-    "img": {
-      "src": [
-        "https://images.unsplash.com/photo-1523217582562-09d0def993a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80"
-      ],
-      "orig": "https://unsplash.com/photos/4ojhpgKpS68",
-      "author": "Foto de Pixasquare no Unsplash"
-    },
-    "amount": "R$ 3.500.000,00",
-    "duration": "85 dias",
-    "completionDate": "Fevereiro, 2018",
-    "owner": "Maria da Silva",
-    "address": "Manila, Philippines"
-  },
-  {
-    "title": "Étienne Beauregard-Riverin",
-    "slug": "sphericity",
-    "category": ["construção"],
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
-    "img": {
-      "src": [
-        "https://images.unsplash.com/photo-1448630360428-65456885c650?ixlib=rb-1.2.1&auto=format&fit=crop&w=1047&q=80"
-      ],
-      "orig": "https://unsplash.com/photos/B0aCvAVSX8E",
-      "author": "Foto de @sphericity no Unsplash"
-    },
-    "amount": "R$ 3.500.000,00",
-    "duration": "85 dias",
-    "completionDate": "Fevereiro, 2018",
-    "owner": "João das Neves",
-    "address": "Manila, Philippines"
-  },
-  {
-    "title": "Jason Briscoe",
-    "slug": "jason-briscoe",
-    "category": ["remodelação", "desing de interiores"],
-    "description": "Giving brands the energy to change. I use design to help clients find the vision and courage to take on the world.",
+    "description": "26 Casas populares em Luziânia. Informe-se conosco quanto essa incrível oportunidade de ter seu primeiro imóvel.",
     "img": {
       "src": [
 		"https://iili.io/K52jFs.jpg",
 		"https://iili.io/K52XPn.jpg"
       ],
       "orig": "https://iili.io/K52jFs.jpg",
-      "author": "Foto de Jason Briscoe no Unsplash"
+      "author": "Foto de Construtora Sakara"
     },
-    "amount": "R$ 3.500.000,00",
-    "duration": "85 dias",
-    "completionDate": "Fevereiro, 2018",
-    "owner": "Jason Briscoe",
-    "address": "Toronto",
+    "completionDate": "Em estado de acabamento",
+    "owner": "Construtora Sakara",
+    "address": "Luziânia (Goiás)",
     "featured": true
   },
   {
-    "title": "The Rock and Roll Hall of Fame and Museum",
-    "slug": "lance-anderson",
-    "category": ["construção", "desing de interiores"],
-    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo amet dicta eaque facere doloribus, earum error! Laudantium beatae harum quos?",
+    "title": "Hotel Sobradinho",
+    "slug": "hotel-sobradinho",
+    "category": ["construção"],
+    "description": "Empreendimento com estrutura e alvenarias já executadas, em fase final de licenciamento. Faça parte desse empreendimento, invista. Entre em contato e saiba mais...",
     "img": {
       "src": [
 		"https://iili.io/K52NSf.jpg",
 		"https://iili.io/K52wcG.jpg"
       ],
       "orig": "https://iili.io/K52NSf.jpg",
-      "author": "Foto de Lance Anderson no Unsplash"
+      "author": "Foto de Construtora Sakara"
     },
-    "amount": "R$ 3.500.000,00",
-    "duration": "85 dias",
-    "completionDate": "Fevereiro, 2018",
-    "owner": "Anderson Lance",
-    "address": "Cleveland, United States",
+    "completionDate": "Em andamento",
+    "owner": "Construtora Sakara",
+    "address": "Sobradinho (Distrito Federal)",
     "featured": true
   }
 ]
