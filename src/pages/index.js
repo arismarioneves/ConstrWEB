@@ -13,7 +13,6 @@ import Servicos from "../components/services"
 import Sobre from "../components/about"
 import Contato from "../components/quote"
 import Projetos from "../components/feature"
-import Atividades from "../components/news"
 
 const IndexPage = ({ data }) => {
   const { fullTitle, description, about } = data.site.siteMetadata
@@ -28,7 +27,6 @@ const IndexPage = ({ data }) => {
         projects={data.allProjectsJson.edges}
       />
       <Contato />
-      <Atividades />
     </div>
   )
 }
