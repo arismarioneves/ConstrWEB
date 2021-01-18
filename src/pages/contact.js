@@ -11,9 +11,7 @@ import Mail from "../assets/svg/mail.svg"
 import Pin from "../assets/svg/map-pin.svg"
 
 import FacebookSVG from "../assets/svg/facebook.svg"
-import TwitterSVG from "../assets/svg/twitter.svg"
 import InstagramSVG from "../assets/svg/instagram.svg"
-import LinkedinSVG from "../assets/svg/linkedin.svg"
 
 const ContactPage = () => {
   const data = useStaticQuery(graphql`
@@ -135,25 +133,11 @@ const ContactPage = () => {
                       <FacebookSVG className="fill-svg" />
                     </a>
                     <a
-                      href={social.twitter}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <TwitterSVG className="fill-svg" />
-                    </a>
-                    <a
                       href={social.instagram}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <InstagramSVG className="stroke-svg" />
-                    </a>
-                    <a
-                      href={social.linkedin}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <LinkedinSVG className="stroke-svg" />
                     </a>
                   </Row>
                 </section>

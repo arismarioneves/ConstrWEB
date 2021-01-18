@@ -12,9 +12,7 @@ import Mail from "../assets/svg/regular/envelope.svg"
 import Pin from "../assets/svg/solid/map-marker-alt.svg"
 
 import FacebookSVG from "../assets/svg/facebook.svg"
-import TwitterSVG from "../assets/svg/twitter.svg"
 import InstagramSVG from "../assets/svg/instagram.svg"
-import LinkedinSVG from "../assets/svg/linkedin.svg"
 
 import ISO9001 from "../images/badge/ISO-9001.png"
 import ISO14001 from "../images/badge/ISO-14001.png"
