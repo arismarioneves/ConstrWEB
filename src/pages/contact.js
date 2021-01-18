@@ -22,9 +22,7 @@ const ContactPage = () => {
           email
           social {
             facebook
-            twitter
             instagram
-            linkedin
           }
           contact {
             mobile
