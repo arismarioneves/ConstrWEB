@@ -25,9 +25,7 @@ const Layout = ({ children }) => {
           email
           social {
             facebook
-            twitter
             instagram
-            linkedin
           }
           contact {
             mobile

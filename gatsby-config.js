@@ -4,13 +4,10 @@ module.exports = {
     fullTitle: `CONSTRUTORA SAKARA`,
     description: `Planeje melhor | Construa melhor | Viva melhor.`,
     about: `Desde nossa constituição estamos construindo a nossa história como construtora em Brasília.`,
-    email: `mariodev@outlook.com.br`,
-	//email: `info@sakara.com`,
+    email: `construtorasakaraltda@gmail.com`,
     social: {
-      facebook: `https://facebook.com/sakara`,
-      twitter: `https://twitter.com/sakara`,
-      instagram: `https://instagram.com/sakara`,
-      linkedin: `https://linkedin.com/in/sakara`,
+      facebook: `https://facebook.com/construtorasakara`,
+      instagram: `https://instagram.com/construtorasakara`
     },
     contact: {
       mobile: `+55 61 91234 5678`,

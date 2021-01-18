@@ -45,7 +45,7 @@ const Footer = ({ siteMetadata }) => {
       <section className="footer-wrapper">
         <Container className="footer-content text-white">
           <Row className="section-md">
-            <Col className="company-badge" lg="4" sm="12">
+            /*<Col className="company-badge" lg="4" sm="12">
               <h4 className="text-center font-weight-bold mt-4 mb-2">
                 Licenciado/Credenciado
               </h4>
@@ -59,7 +59,7 @@ const Footer = ({ siteMetadata }) => {
                   />
                 ))}
               </section>
-            </Col>
+            </Col>*/
             <Col className="footer-aboutus" lg="4" sm="6">
               <h4 className="text-center font-weight-bold mt-4 mb-2">
                 Sobre
@@ -75,25 +75,11 @@ const Footer = ({ siteMetadata }) => {
                     <FacebookSVG className="fill-svg" />
                   </a>
                   <a
-                    href={social.twitter}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <TwitterSVG className="fill-svg" />
-                  </a>
-                  <a
                     href={social.instagram}
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     <InstagramSVG className="stroke-svg" />
-                  </a>
-                  <a
-                    href={social.linkedin}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    <LinkedinSVG className="stroke-svg" />
                   </a>
                 </Row>
               </section>
