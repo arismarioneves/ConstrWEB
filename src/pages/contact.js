@@ -37,7 +37,7 @@ const ContactPage = () => {
 
   const { title, email, social, contact, address, map } = data.site.siteMetadata
   return (
-    <section id="contact">
+    <section id="contato">
       <PageHeader title="Contato" />
       <Container>
         <main className="contact-page section-lg">
