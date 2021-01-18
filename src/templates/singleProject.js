@@ -23,7 +23,6 @@ export const query = graphql`
         author
       }
       completionDate
-      duration
       owner
       address
     }
