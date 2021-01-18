@@ -23,7 +23,6 @@ export const query = graphql`
         author
       }
       completionDate
-      amount
       duration
       owner
       address
@@ -38,8 +37,6 @@ const SingeProject = props => {
     description,
     img,
     completionDate,
-    amount,
-    duration,
     owner,
     address,
   } = props.data.projectsJson
@@ -75,20 +72,6 @@ const SingeProject = props => {
                 value={category.map((cat, index, category) =>
                   index === category.length - 1 ? cat : cat + ", "
                 )}
-              />
-              <hr />
-              <List1
-                className="font-size-120"
-                svg={<Bill />}
-                title="Custo"
-                value={amount}
-              />
-              <hr />
-              <List1
-                className="font-size-120"
-                svg={<Calendar />}
-                title="Duração"
-                value={duration}
               />
               <hr />
               <List1

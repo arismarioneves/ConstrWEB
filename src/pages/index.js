@@ -46,8 +46,6 @@ export const projectsQuery = graphql`
             author
           }
           completionDate
-          amount
-          duration
           owner
           address
           featured
