@@ -109,7 +109,7 @@ const ContactPage = () => {
                   </Col>
                   <Col className="mb-4" md="6">
                     <button
-                      className="text-dark font-weight-bold text-uppercase btn btn-secondary btn-block"
+                      className="font-weight-bold text-uppercase btn btn-secondary btn-block"
                       type="submit"
                     >
                       Enviar mensagem
