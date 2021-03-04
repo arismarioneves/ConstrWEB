@@ -10,7 +10,7 @@ module.exports = {
       instagram: `https://instagram.com/construtorasakara`
     },
     contact: {
-      mobile: `+55 61 91234 5678`,
+      mobile: `+55 61 99828 2270`,
       telephone: `(61) 3047 8879`,
     },
     address: `Deck Norte, SHIN CA 01 Lt A, Sala 204 - Lago Norte, Brasília - DF, 71503-501`,
