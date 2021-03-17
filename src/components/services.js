@@ -19,7 +19,7 @@ const Servicos = () => {
   return (
     <div className="services" id="services">
       <Container>
-        <Row>
+        <Row className="justify-content-center">
           {card.map(service => {
             return (
               <Col md="6" lg="4">

@@ -14,11 +14,6 @@ import Helmet from "../images/icons/icon-helmet-67x65.png"
 const ServicesPage = () => {
   const card = [
     {
-      title: `Construção`,
-      icon: Bulldozer,
-      description: `Fornecemos serviços de construção de alta qualidade para os mercados de energia, água e telecomunicações.`,
-    },
-    {
       title: `Contratante`,
       icon: Suitcase,
       description: `O contratante pode gerenciar e contratar subcontratados enquanto atua como o principal contato com os clientes de construção.`,
@@ -27,6 +22,11 @@ const ServicesPage = () => {
       title: `Pré-construção`,
       icon: Relues,
       description: `A pré-construção envolve a execução de um planejamento preliminar e engenharia para definir o projeto.`,
+    },
+	{
+      title: `Construção`,
+      icon: Bulldozer,
+      description: `Fornecemos serviços de construção de alta qualidade para os mercados de energia, água e telecomunicações.`,
     }
   ]
   return (
