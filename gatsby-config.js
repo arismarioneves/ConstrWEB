@@ -35,7 +35,7 @@ module.exports = {
       position: `Web Developer`,
       email: `mariodev@outlook.com.br`,
       contact: `(+55) 61 99275 7759`,
-      website: `http://arismarioneves.tk`,
+      website: `http://arismario.tk`,
     },
   },
   plugins: [

@@ -4,7 +4,7 @@ import "./project.scss"
 
 import ProjCard from "./projCard"
 
-const projCategories = ["todos", "construção", "remodelação", "desing de interiores"]
+const projCategories = ["todos", "construção", "obras"]
 class Project extends Component {
   state = {
     category: "todos",

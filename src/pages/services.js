@@ -17,17 +17,7 @@ const ServicesPage = () => {
       title: `Construção`,
       icon: Bulldozer,
       description: `Fornecemos serviços de construção de alta qualidade para os mercados de energia, água e telecomunicações.`,
-    },
-    {
-      title: `Remodelação`,
-      icon: Tassels,
-      description: `Nossa equipe de especialistas tem anos de experiência na reforma de casas, incluindo cozinhas, porões etc.`,
-    },
-    {
-      title: `Design de interiores`,
-      icon: Ruler,
-      description: `Nossos serviços de design de interiores são a melhor maneira de obter um design de casa que se adapte completamente a você e ao seu estilo de vida.`,
-    },
+    }
     {
       title: `Contratante`,
       icon: Suitcase,
@@ -37,12 +27,7 @@ const ServicesPage = () => {
       title: `Pré-construção`,
       icon: Relues,
       description: `A pré-construção envolve a execução de um planejamento preliminar e engenharia para definir o projeto.`,
-    },
-    {
-      title: `Edifício Verde`,
-      icon: Helmet,
-      description: `A construção verde tem um efeito altamente reduzido no meio ambiente e é usada em vários dos projetos da nossa empresa.`,
-    },
+    }
   ]
   return (
     <section id="services">

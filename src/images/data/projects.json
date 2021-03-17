@@ -2,8 +2,8 @@
   {
     "title": "Construção",
     "slug": "casa",
-    "category": ["remodelação", "desing de interiores"],
-    "description": "Seguindo a tendência deixada por arquitetos renomados, prezamos pela inovação, estruturas suspensas, grandes vãos, acabamentos requintados com destaque para elementos em concreto aparente, sempre procurando a convergência das necessidades com as melhores soluções de engenharia e de custo.",
+    "category": ["construção"],
+    "description": "Seguindo a tendência deixada por arquitetos renomados, prezamos pela inovação, estruturas suspensas, grandes vãos e acabamentos requintados com destaque para elementos em concreto aparente.",
     "img": {
       "src": [
 		"https://iili.io/K52zuV.jpg",
@@ -26,14 +26,14 @@
   {
     "title": "Casas Populares",
     "slug": "casas-populares",
-    "category": ["construção", "remodelação"],
-    "description": "26 Casas populares em Luziânia. Informe-se conosco quanto essa incrível oportunidade de ter seu primeiro imóvel.",
+    "category": ["obras"],
+    "description": "26 Casas populares em Luziânia. 75% da obra concluída, com documentação em ordem e podendo ser vendidas a unidade ou todas. Informe-se conosco quanto essa incrível oportunidade de ter seu primeiro imóvel.",
     "img": {
       "src": [
 		"https://iili.io/K52jFs.jpg",
 		"https://iili.io/K52XPn.jpg"
       ],
-      "orig": "https://iili.io/K52jFs.jpg",
+      "orig": "https://iili.io/q7GC4R.jpg",
       "author": "Foto de Construtora Sakara"
     },
     "completionDate": "Em estado de acabamento",
@@ -44,8 +44,8 @@
   {
     "title": "Hotel Sobradinho",
     "slug": "hotel-sobradinho",
-    "category": ["construção"],
-    "description": "Empreendimento com estrutura e alvenarias já executadas, em fase final de licenciamento. Faça parte desse empreendimento, invista. Entre em contato e saiba mais...",
+    "category": ["construção", "obras"],
+    "description": "Empreendimento hoteleiro com estrutura e alvenarias já executadas, em fase final de licenciamento e documentação em dia, faltando apenas o acabamento e equipamentos. Faça parte desse empreendimento, invista. Entre em contato e saiba mais.",
     "img": {
       "src": [
 		"https://iili.io/K52NSf.jpg",

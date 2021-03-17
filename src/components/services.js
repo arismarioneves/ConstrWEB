@@ -14,16 +14,6 @@ const Servicos = () => {
       title: `Construção`,
       icon: Bulldozer,
       description: `Fornecemos serviços de construção de alta qualidade para os mercados de energia, água e telecomunicações.`,
-    },
-    {
-      title: `Remodelação`,
-      icon: Tassels,
-      description: `Nossa equipe de especialistas tem anos de experiência na reforma de casas, incluindo cozinhas, porões etc.`,
-    },
-    {
-      title: `Design de interiores`,
-      icon: Ruler,
-      description: `Nossos serviços de design de interiores são a melhor maneira de obter um design de casa que se adapte completamente a você.`,
     }
   ]
   return (
