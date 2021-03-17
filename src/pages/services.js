@@ -17,7 +17,7 @@ const ServicesPage = () => {
       title: `Construção`,
       icon: Bulldozer,
       description: `Fornecemos serviços de construção de alta qualidade para os mercados de energia, água e telecomunicações.`,
-    }
+    },
     {
       title: `Contratante`,
       icon: Suitcase,
