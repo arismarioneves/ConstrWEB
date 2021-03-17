@@ -16,7 +16,7 @@ const ServicesPage = () => {
     {
       title: `Contratante`,
       icon: Suitcase,
-      description: `O contratante pode gerenciar e contratar subcontratados enquanto atua como o principal contato com os clientes de construção.`,
+      description: `O contratante pode gerenciar e contratar subcontratados enquanto atua como o principal contato com os clientes da construção.`,
     },
     {
       title: `Pré-construção`,
